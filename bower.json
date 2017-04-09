@@ -1,0 +1,20 @@
+{
+  "name": "www",
+  "homepage": "https://github.com/nataneb32/site-teste-3",
+  "authors": [
+    "nataneb <gigatan.gt@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
